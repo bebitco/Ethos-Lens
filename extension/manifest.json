@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Ethos Lens",
+  "version": "0.1.0",
+  "description": "Read-only reputation signal overlay prototype",
+  "permissions": [],
+  "action": {
+    "default_title": "Ethos Lens"
+  }
+}
